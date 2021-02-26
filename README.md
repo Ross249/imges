@@ -1,2 +1,2 @@
-# imges
+# images
 images library
